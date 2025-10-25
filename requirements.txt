@@ -1,0 +1,8 @@
+numpy
+pandas
+timm
+transformers==4.46.2
+SimpleITK
+torchio
+monai
+tqdm
